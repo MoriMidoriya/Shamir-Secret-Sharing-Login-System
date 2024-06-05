@@ -100,7 +100,7 @@ It has me and my friend's names on it, but you're free to replace it wihth whate
 
 ## 📞 Contact
 
-*For any queries or issues, feel free to reach out or open an issue in the repository.*
+*For any queries or issues, feel free to reach out or open an issue in the repository. I don't bite, that's a promise*
 
 ---
 
