@@ -95,8 +95,8 @@ It has me and my friend's names on it, but you're free to replace it wihth whate
 
 ## 🖼️ Screenshots
 
-![Type the values here] (C:\Users\Kaushik\Homework and stuff\Sem 5\Crypto\Mid Sem Project\B_16\Shamir Secret Sharing Login System\Screenshots\Values.jpg)
-![Select the shares here] (C:\Users\Kaushik\Homework and stuff\Sem 5\Crypto\Mid Sem Project\B_16\Shamir Secret Sharing Login System\Screenshots\Shares.jpg)
+![Alt text](C:\Users\Kaushik\Homework and stuff\Sem 5\Crypto\Mid Sem Project\B_16\Shamir Secret Sharing Login System\Screenshots\Values.jpg "Type the values here")
+![Alt text](C:\Users\Kaushik\Homework and stuff\Sem 5\Crypto\Mid Sem Project\B_16\Shamir Secret Sharing Login System\Screenshots\Shares.jpg "Select the shares here")
 
 ## 📞 Contact
 
