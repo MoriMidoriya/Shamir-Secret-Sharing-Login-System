@@ -90,13 +90,13 @@ This file contains the server-side code that handles incoming client requests, p
 ### `lock.png`
 
 This image file is used in the GUI for the lock icon.
-It has me and my friend's names on it, but you're free to replace it wihth whatever image you like :winkey:
+It has me and my friend's names on it, but you're free to replace it wihth whatever image you like 😉
 (just make sure it's named `lock.png`).
 
 ## 🖼️ Screenshots
 
-[Type the values here] (Values.jpg)
-[Select the shares here] (Shares.jpg)
+![Type the values here] (C:\Users\Kaushik\Homework and stuff\Sem 5\Crypto\Mid Sem Project\B_16\Shamir Secret Sharing Login System\Screenshots\Values.jpg)
+![Select the shares here] (C:\Users\Kaushik\Homework and stuff\Sem 5\Crypto\Mid Sem Project\B_16\Shamir Secret Sharing Login System\Screenshots\Shares.jpg)
 
 ## 📞 Contact
 
