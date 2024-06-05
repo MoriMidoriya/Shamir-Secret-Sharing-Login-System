@@ -26,7 +26,7 @@ A secure login system leveraging Shamir's Secret Sharing scheme to split and rec
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/your-username/shamir-secret-sharing-login.git
+    git clone https://github.com/MoriMidoriya/Shamir-Secret-Sharing-Login-System.git
     cd shamir-secret-sharing-login
     ```
 
