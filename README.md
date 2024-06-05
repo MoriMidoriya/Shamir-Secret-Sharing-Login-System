@@ -20,14 +20,14 @@ A secure login system leveraging Shamir's Secret Sharing scheme to split and rec
 - **ttkthemes Library**: For themed styles in the GUI.
 - **Pillow Library**: For handling images in the GUI.
 
---- A Java version is also available in the repository. It has both the client and server side code without the GUI. ---
+A Java version is also available in the repository. It's not as sphisticated as it's Python counterpart, bit it works ~~I didnt't have time to make it better~~.
 
 ## 📦 Installation
 
 1. **Clone the Repository:**
     ```sh
     git clone https://github.com/MoriMidoriya/Shamir-Secret-Sharing-Login-System.git
-    cd shamir-secret-sharing-login
+    cd Shamir-Secret-Sharing-Login-System
     ```
 
 2. **Install Required Libraries:**
@@ -43,7 +43,8 @@ A secure login system leveraging Shamir's Secret Sharing scheme to split and rec
     ```sh
     python server.py
     ```
-    This starts the server, which listens for incoming connections on `127.0.0.1:8080`. (You can change the host and port accordingly)
+    This starts the server, which listens for incoming connections on `127.0.0.1:8080`. 
+    (You can change the host and port accordingly)
 
 ### Client Side
 
@@ -86,9 +87,16 @@ This file contains the server-side code that handles incoming client requests, p
     - `handle_client()`: Processes client requests and sends back the result.
     - `run_server()`: Runs the server to listen for incoming connections.
 
+### `lock.png`
+
+This image file is used in the GUI for the lock icon.
+It has me and my friend's names on it, but you're free to replace it wihth whatever image you like :winkey:
+(just make sure it's named `lock.png`).
+
 ## 🖼️ Screenshots
 
-*Add screenshots of your GUI here to give users a visual overview of your application.*
+[Type the values here] (Values.jpg)
+[Select the shares here] (Shares.jpg)
 
 ## 📞 Contact
 
