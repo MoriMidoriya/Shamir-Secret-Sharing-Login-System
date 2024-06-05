@@ -20,7 +20,7 @@ A secure login system leveraging Shamir's Secret Sharing scheme to split and rec
 - **ttkthemes Library**: For themed styles in the GUI.
 - **Pillow Library**: For handling images in the GUI.
 
-A Java version is also available in the repository. It's not as sphisticated as it's Python counterpart, bit it works ~~I didnt't have time to make it better~~.
+A Java version is also available in the repository. It's not as sophisticated as it's Python counterpart, but it works ~~I didnt't have time to make it better~~.
 
 ## 📦 Installation
 
